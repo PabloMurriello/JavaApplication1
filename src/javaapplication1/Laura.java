@@ -11,4 +11,6 @@ package javaapplication1;
  */
 public class Laura {
     
+    private String nom;
+    private int num;
 }
